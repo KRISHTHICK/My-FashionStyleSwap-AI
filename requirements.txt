@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+Pillow
+transformers
+
+# pip install -r requirements.txt
+# streamlit run app.py
